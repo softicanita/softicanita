@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Anita 👋
 
-<!--
-**softicanita/softicanita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineering student interested in software development, programming, and embedded systems.
 
-Here are some ideas to get you started:
+### 💻 Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- C#
+- C/C++
+- Python
+- OOP
+- SQL
+- Arduino
+- STM32
+- Microsoft Office tools
+- Git & GitHub
+- Proteus
+
+### 🚀 Projects
+- **System of Providing Assistance and Services** — C# application with Microsoft Access database
+- **HAZARD** — Autonomous line-following and obstacle-avoiding robot
+- **Hotel Room Reservation System** — C# desktop application
+- **Nano Defender** — STM32-based interactive game
+
+### 🎯 Currently
+
+Building my software development portfolio through academic and personal projects while expanding my skills in software engineering.
